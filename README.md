@@ -1,2 +1,2 @@
-# Machine-Learning-Methods
+# Machine-Learning-Technologies
 # Ким Р.И. ИУ5-62Б
